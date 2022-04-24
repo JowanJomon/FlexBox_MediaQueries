@@ -111,7 +111,7 @@ button{
     form{
         width: 100%;
         display: flex;
-        max-width:600px; 
+        max-width:600px;
         flex-direction: column;
         margin: 0 auto;
     }
